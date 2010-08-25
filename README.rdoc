@@ -1,6 +1,6 @@
 = has_dynamic_attribute
 
-Description goes here.
+Guide will come soon...
 
 == Note on Patches/Pull Requests
  
